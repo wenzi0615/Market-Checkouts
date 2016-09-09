@@ -5,15 +5,6 @@ import java.text.DecimalFormat;
 
 public class GUI extends JFrame
 {
-    /* 
-     
-    CS5741
-     
-    Yanjun Wang(15015882)
-     
-    2015.11.20
-     
-    */
     
     Market market;
     private JPanel showPanel;
