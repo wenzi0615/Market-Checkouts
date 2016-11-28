@@ -5,12 +5,12 @@ Project description
 
 # Supermarket Checkout
 
-## A big supermarket chain wants a simulation of their checkouts. They regularly face questions such as:
+### A big supermarket chain wants a simulation of their checkouts. They regularly face questions such as:
 * If we use six checkouts instead of five, how much does that reduce the waiting time for each customer?
 * Is it worth it?
 * Is it useful to open another "5 items or less" checkout? Or should it be "10 items or less"?
 
-## There is some new technology on the market: scanners that would reduce the scanning time for each item (they are much more reliable). But three of the new scanners cost as much as five of the old ones -
+### There is some new technology on the market: scanners that would reduce the scanning time for each item (they are much more reliable). But three of the new scanners cost as much as five of the old ones -
 * is it worth buying them? 
 * Does that really make a difference?
 
